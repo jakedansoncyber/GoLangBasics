@@ -32,6 +32,9 @@ func main() {
 
 	// Converting modulev2 into a string and storing into module
 	// since it hasn't been initialized yet
+	// The Error code variable is used as the strconv.Atoi function
+	// returns an error code AND an integer, so you have to have two variables
+	// to store the error code and the integer
 	module, errorCodeCapturedFromAtoi := strconv.Atoi(modulev2)
 
 	// Checking if the error code from the strconv function
