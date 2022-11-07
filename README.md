@@ -2,7 +2,7 @@
 
 This project is just a simple GoLang Project that displays the syntax that I can go back to later as a reference
 
-# How to run this program
+# How to create & run a Golang program
 
 1. Creating your first module, you will run this command:
 	- Go mod init {name}
