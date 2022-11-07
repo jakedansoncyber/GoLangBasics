@@ -2,6 +2,11 @@
 
 This project is just a simple GoLang Project that displays the syntax that I can go back to later as a reference
 
+# Tutorial Used
+
+https://app.pluralsight.com/library/courses/go-fundamentals/table-of-contents
+
+
 # Install Go
 
 https://go.dev/doc/install?download
