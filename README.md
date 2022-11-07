@@ -16,5 +16,5 @@ This project is just a simple GoLang Project that displays the syntax that I can
 	- Run: Go compiled the app into a temp directory, ran it and then cleaned it up after it was done.
 	- Build: Creates an executable with the name of the package that you created it in. If I said "go build .", my executable would be named HelloWorld in this case.
 	- Install: Installs it locally in the go/bin folder
-	- For simplicity, we will just run: go run .
+	- For simplicity, we will just run the command: ```go run .```
 		- Make sure you are in the folder that your application lies in. This command will run any go application in the current directory.  
