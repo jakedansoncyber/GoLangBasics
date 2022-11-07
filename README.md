@@ -5,7 +5,7 @@ This project is just a simple GoLang Project that displays the syntax that I can
 # How to create & run a Golang program
 
 1. Creating your first module, you will run this command:
-	- Go mod init {name}
+	- ```go mod init {name}```
 		- The name can be anything, but if you plan on publishing this module, then it should be the url path to where your versioning control is.
 		- Example: go mod init github.com/jakedansoncyber/GoLangHelloWorld
 		- Note, do not include https://
