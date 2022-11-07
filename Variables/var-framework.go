@@ -38,7 +38,7 @@ func main() {
 	// is equal to nil (nothing or zero)
 	if errorCodeCapturedFromAtoi == nil {
 		total := module + clip
-		fmt.Println("Modul + clip = ", total)
+		fmt.Println("Module + clip = ", total)
 	}
 
 }
