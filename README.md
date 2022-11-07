@@ -2,6 +2,10 @@
 
 This project is just a simple GoLang Project that displays the syntax that I can go back to later as a reference
 
+# Install Go
+
+https://go.dev/doc/install?download
+
 # How to create & run a Golang program
 
 1. Creating your first module, you will run this command:
