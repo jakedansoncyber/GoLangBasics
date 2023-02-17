@@ -28,7 +28,7 @@ func main() {
 	// Have function write string
 	WriteHelloWorld()
 	// Write string from input
-	WriteInput("This is a string that the fucntion writes")
+	WriteInput("This is a string that the function writes")
 
 	// Converting modulev2 into a string and storing into module
 	// since it hasn't been initialized yet
