@@ -1,0 +1,15 @@
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/bin/Debug/net7.0/c#
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/bin/Debug/net7.0/c#.deps.json
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/bin/Debug/net7.0/c#.dll
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/bin/Debug/net7.0/c#.pdb
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.dll
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/refint/c#.dll
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.pdb
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/Users/Jacob.Danson@alaskaair.com/Documents/PersonalProjects/GoLangHelloWorld/Benchmark/c#/obj/Debug/net7.0/ref/c#.dll

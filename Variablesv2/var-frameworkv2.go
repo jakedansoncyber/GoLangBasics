@@ -15,34 +15,45 @@ var (
 )
 
 // Or we can set variables and the program interprets the type for us
-var (
-	namev2   = "jake"
-	coursev2 = "Go Lang!"
-	modulev2 = "10" // put as string for Atoi function below
-	clipv2   = 2
-)
+var ()
 
 func main() {
+
+	name := "Jake Danson"
+	course := "Getting started with Go Lang"
+	module := "4"
+	clip := 2
+	//courseComplete := false
+
 	// Grab string from function
 	fmt.Println(GetHelloWorld())
 	// Have function write string
 	WriteHelloWorld()
 	// Write string from input
-	WriteInput("This is a string that the function writes")
-
+	WriteInput("This is a string that the fucntion writes")
+	WriteInput(name + course)
 	// Converting modulev2 into a string and storing into module
 	// since it hasn't been initialized yet
-	// The Error code variable is used as the strconv.Atoi function
-	// returns an error code AND an integer, so you have to have two variables
-	// to store the error code and the integer
-	module, errorCodeCapturedFromAtoi := strconv.Atoi(modulev2)
+	iModule, errorCodeCapturedFromAtoi := strconv.Atoi(module)
 
 	// Checking if the error code from the strconv function
 	// is equal to nil (nothing or zero)
 	if errorCodeCapturedFromAtoi == nil {
-		total := module + clip
+		total := iModule + clip
 		fmt.Println("Module + clip = ", total)
 	}
+
+	fmt.Println("Memory address of the course variable: ", &course)
+
+	// Creating a pointer variable
+	var ptr *string = &course
+
+	fmt.Println("The memory of ptr = ", ptr, " The value of ptr = ", *ptr)
+
+	*ptr = "New value"
+
+	fmt.Println("The memory of ptr = ", ptr, " The value of ptr = ", *ptr)
+
 
 }
 
