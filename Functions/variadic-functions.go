@@ -11,7 +11,7 @@ func main() {
 }
 
 // This is a variadic function that expects ANY number of ints
-// It needs 3 periods before the type, they care called elipses
+// It needs 3 periods before the type, they are called elipses
 // The input parameter finishes gets stored as a "slice" of ints
 // <returns> Best finish (lowest value given) <returns>
 func championshipFinishes(finishes ...int) int {
