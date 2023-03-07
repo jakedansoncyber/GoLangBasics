@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 
 	// defining a new type
@@ -11,7 +13,7 @@ func main() {
 
 	var joshCourse = courseMeta{
 		author: "jake",
-		level: "josh",
+		level:  "josh",
 		rating: 120.4,
 	}
 
@@ -19,9 +21,11 @@ func main() {
 
 	jakeCourse := courseMeta{
 		author: "jake",
-		level: "josh",
+		level:  "josh",
 		rating: 10.2,
 	}
 
+	fmt.Println(jakeCourse.author)
+	fmt.Println(joshCourse.author)
 
 }
