@@ -16,7 +16,7 @@ jobs:
     steps:
     
     - name: SetEnvVar
-      run: export MY_VARIABLE="Hello, World!"
+      run: echo "##[set-env name=MY_VARIABLE]my-value"
 
     - name: PrintEnvVar
-      run: echo "$MY_VARIABLE"
+      run: echo $MY_VARIABLE
