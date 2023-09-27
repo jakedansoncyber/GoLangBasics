@@ -16,7 +16,7 @@ jobs:
     steps:
     
     - name: SetEnvVar
-      run: echo "{hello}={i said hello}" >> "$GITHUB_ENV"
+      run: echo "hello=i said hello" >> "$GITHUB_ENV"
 
     - name: PrintEnvVar
       run: echo $hello
